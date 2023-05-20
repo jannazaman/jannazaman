@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jannazaman&label=Profile%20views&color=0e75b6&style=flat" alt="jannazaman" /> </p>
 
-<p align="left"> <a href="https://twitter.com/itz_janna_" target="blank"><img src="https://img.shields.io/twitter/follow/itz_janna_?logo=twitter&style=for-the-badge" alt="itz_janna_" /></a> </p>
+As a dedicated computer science student, I possess an unwavering passion for coding (especially front-end) and a fervent desire to explore the ever-evolving realm of technology. Committed to relentless self-improvement, I strive to sharpen my skills and broaden my expertise. I constantly elevate my expertise through engaging projects, finding immense joy in crafting captivating front-end interfaces and exploring the fascinating realm of data science.
 
 - 📫 How to reach me **jannatunzaman487@gmail.com**
 
