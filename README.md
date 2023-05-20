@@ -9,7 +9,7 @@
 
 👩🏽‍💻 As a dedicated computer science student, I possess an unwavering passion for coding (especially front-end) and a fervent desire to explore the ever-evolving realm of technology. Committed to relentless self-improvement, I strive to sharpen my skills and broaden my expertise. I constantly elevate my expertise through engaging projects, finding immense joy in crafting captivating front-end interfaces and exploring the fascinating realm of data science. With a strong desire to express my creativity, I aim to develop virtual experiences that are not only aesthetically desirable but also make a positive impact. 
 
-- 📫 How to reach me **jannatunzaman487@gmail.com**
+- Email: **jannatunzaman487@gmail.com**
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
