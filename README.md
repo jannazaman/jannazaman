@@ -7,14 +7,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jannazaman&label=Profile%20views&color=0e75b6&style=flat" alt="jannazaman" /> </p>
 
-👩🏽‍💻 As a dedicated computer science student, I possess an unwavering passion for coding (especially front-end) and a fervent desire to explore the ever-evolving realm of technology. Committed to relentless self-improvement, I strive to sharpen my skills and broaden my expertise. I constantly elevate my expertise through engaging projects, finding immense joy in crafting captivating front-end interfaces and exploring the fascinating realm of data science. With a strong desire to express my creativity, I aim to develop virtual experiences that are not only aesthetically desirable but also make a positive impact. 
+👩🏽‍💻 As a dedicated computer science enthusiast, I possess an unwavering passion for coding (especially front-end) and a fervent desire to explore the ever-evolving realm of technology. Committed to relentless self-improvement, I strive to sharpen my skills and broaden my expertise. I constantly elevate my expertise through engaging projects, finding immense joy in crafting captivating front-end interfaces and exploring the fascinating realm of data science. With a strong desire to express my creativity, I aim to develop virtual experiences that are not only aesthetically desirable but also make a positive impact. 
 
 - Email: **jannatunzaman487@gmail.com**
 __________________________________________________________________________________________________________________
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/itz_janna_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itz_janna_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jannazaman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jannazaman/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jannazaman23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jannazaman/" height="30" width="40" /></a>
 <a href="https://instagram.com/itzjanna_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itzjanna_" height="30" width="40" /></a>
 
 </p>
